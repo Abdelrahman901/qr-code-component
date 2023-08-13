@@ -6,5 +6,3 @@
 ## The challenge
 
 A QR code component built using basic html & css styling
-
-![screenshot](screenshot\screenshot-2.png)
